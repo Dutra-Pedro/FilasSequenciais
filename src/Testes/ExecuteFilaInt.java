@@ -1,4 +1,6 @@
-package filas;
+package Testes;
+
+import filas.FilaInt;
 
 import java.util.Scanner;
 
